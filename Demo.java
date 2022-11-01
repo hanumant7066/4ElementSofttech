@@ -4,5 +4,6 @@ class Demo
 
 	{
 		System.out.println("Hello Second Git");
+		System.out.println("Second line addded");
 	}
 }
